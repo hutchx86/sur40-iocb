@@ -1,1 +1,1 @@
-# sur40-iocb
+# SUR40 I/O & Control Board
